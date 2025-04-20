@@ -2,4 +2,4 @@
 
 Simon says Game
 <br>
-Author : Satyam Bharti
+Author : Satyam Shah Godkar
